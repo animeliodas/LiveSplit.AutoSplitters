@@ -13291,6 +13291,17 @@
         <Type>Script</Type>
         <Description>Auto-splitting and start is available. (by BurrowBird)</Description>
     </AutoSplitter>
+        <AutoSplitter>
+    <Games>
+        <Game>Serious Sam: The Greek Encounter</Game>
+    </Games>
+    <URLs>
+            <URL>https://raw.githubusercontent.com/animeliodas/SamTGE.asl/main/SamTGE.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Autosplitter for Serious Sam TGE (By AniMeliodas) </Description>
+        <Website>https://discord.gg/0vKwJa1xQoCpw7vY</Website>
+    </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Red Alliance</Game>
